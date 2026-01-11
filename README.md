@@ -1,7 +1,4 @@
-# Web-Scrapper-and-Data-Analysis
-Web Scraper & Data Analysis Project
-
-This project demonstrates scraping quotes data from quotes.toscrape.com, performing basic data cleaning and exploratory analysis, and storing the processed data in a SQLite database using Python. It supports data visualization and SQL-based querying for insight.
+This project demonstrates scraping quotes data from quotes.toscrape.com, performing basic data cleaning and exploratory analysis, and storing the processed data in a SQLite database using Python. It supports data visualization and SQL-based querying for insights.
 
 Project Structure
 
